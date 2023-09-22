@@ -1,7 +1,7 @@
 # MachineLearning-DeepLearning-HnadwritingRecognition
 Innovative and effective framework for correctly identifying and categorizing handwritten numbers and text
 # About
-Works by uincorporating the IAM Dataset, which includes ground-truth targets of variable lengths.
+Works by incorporating the IAM Dataset, which includes ground-truth targets of variable lengths.
 
 Each entry in this dataset consists of an image containing handwritten text, with the corresponding target being the text within the image. The IAM dataset is a widely accepted benchmark for evaluating OCR (Optical Character Recognition) systems.
 
