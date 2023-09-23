@@ -1,4 +1,4 @@
-# MachineLearning-DeepLearning-HnadwritingRecognition
+# MachineLearning-DeepLearning-HandwritingRecognition
 Innovative and effective framework for correctly identifying and categorizing handwritten numbers and text
 # About
 Works by incorporating the IAM Dataset, which includes ground-truth targets of variable lengths.
